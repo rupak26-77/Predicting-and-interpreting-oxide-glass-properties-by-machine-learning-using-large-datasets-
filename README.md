@@ -69,13 +69,4 @@ The goal is to estimate material properties (like Young’s Modulus) from a give
 - Improved model accuracy through boosting techniques.
 - Model interpretability using **SHAP**.
 
----
 
-## 👤 Author
-- **Your Name**  
-- Machine Learning & Data Science Enthusiast  
-
----
-
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
